@@ -14,6 +14,7 @@
       <change afterPath="$PROJECT_DIR$/../TDD.rb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../block.rb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../downto.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../funtional.rb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../learn_enough.rb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../palindrom.rb" afterDir="false" />
@@ -63,6 +64,9 @@
       <change afterPath="$PROJECT_DIR$/../tmp/rubycritic/ruby_monk.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tmp/rubycritic/ruby_tricks.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tmp/rubycritic/smells_index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/frank_palindrome-1.0.0.gem" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/frank_palindrome-1.0.0.gem" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,8 +79,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/frank_palindrome.gemspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+            <state relative-caret-position="288">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -84,7 +88,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -139,6 +143,11 @@
       <command value="git remove -rf KariukiFrancis / learn_enough_tdd" />
       <command value="git -rf KariukiFrancis / learn_enough_tdd" />
       <command value="git status" />
+      <command value="bundle exec rake install" />
+      <command value="bundle exec rake test" />
+      <command value="gem pristine bond --version 0.5.1" />
+      <command value="gem signin" />
+      <command value="bundle Install" />
     </option>
   </component>
   <component name="RunDashboard">
@@ -167,12 +176,12 @@
       <workItem from="1552905645905" duration="7000" />
       <workItem from="1553160683521" duration="883000" />
       <workItem from="1553161951860" duration="5000" />
-      <workItem from="1553162000272" duration="549000" />
+      <workItem from="1553162000272" duration="1043000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1550000" />
+    <option name="totallyTimeSpent" value="2044000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="558" y="23" width="629" height="822" extended-state="0" />
@@ -205,8 +214,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/frank_palindrome.gemspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="16" column="10" lean-forward="true" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        <state relative-caret-position="288">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
         </state>
       </provider>
     </entry>
