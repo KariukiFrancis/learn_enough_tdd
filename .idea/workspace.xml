@@ -14,7 +14,6 @@
       <change afterPath="$PROJECT_DIR$/../TDD.rb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../block.rb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../downto.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../funtional.rb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../learn_enough.rb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../palindrom.rb" afterDir="false" />
@@ -64,8 +63,10 @@
       <change afterPath="$PROJECT_DIR$/../tmp/rubycritic/ruby_monk.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tmp/rubycritic/ruby_tricks.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tmp/rubycritic/smells_index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/console" beforeDir="false" afterPath="$PROJECT_DIR$/bin/console" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frank_palindrome.gemspec" beforeDir="false" afterPath="$PROJECT_DIR$/frank_palindrome.gemspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/frank_palindrome/version.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/frank_palindrome/version.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pkg/frank_palindrome-1.0.0.gem" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/frank_palindrome-1.0.0.gem" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,12 +76,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/frank_palindrome.gemspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            <state relative-caret-position="126">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -93,12 +94,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/bin/console" />
         <option value="$PROJECT_DIR$/frank_palindrome.gemspec" />
+        <option value="$PROJECT_DIR$/lib/frank_palindrome/version.rb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="558" />
+    <option name="x" value="761" />
     <option name="y" value="23" />
     <option name="width" value="629" />
     <option name="height" value="822" />
@@ -109,6 +112,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,11 +120,26 @@
               <item name="frank_palindrome" type="b2602c69:ProjectViewProjectNode" />
               <item name="frank_palindrome" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="frank_palindrome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frank_palindrome" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frank_palindrome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frank_palindrome" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="frank_palindrome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="frank_palindrome" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="frank_palindrome" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -143,11 +162,33 @@
       <command value="git remove -rf KariukiFrancis / learn_enough_tdd" />
       <command value="git -rf KariukiFrancis / learn_enough_tdd" />
       <command value="git status" />
-      <command value="bundle exec rake install" />
-      <command value="bundle exec rake test" />
       <command value="gem pristine bond --version 0.5.1" />
-      <command value="gem signin" />
       <command value="bundle Install" />
+      <command value="bundle exec rake test" />
+      <command value="bundle exec rake install" />
+      <command value="gem push frank_palindrome 1.0.0.gem" />
+      <command value="gem push frank_palindrome 1.0.0" />
+      <command value=" bundle exec rake release" />
+      <command value="gem upgrade" />
+      <command value="gem install frank_palindrome" />
+      <command value="gem push frank_palindrome-1.0.0" />
+      <command value="gem build test_config" />
+      <command value="gem build frank_palindrome.gem" />
+      <command value="gem push frank_palindrome " />
+      <command value="gem build frank_palindrome-1.0.0.gem" />
+      <command value="gem yank" />
+      <command value="gem yank-1.0.0" />
+      <command value="gem yank 1.0.0" />
+      <command value="bundle info frank_palindrome" />
+      <command value="gem signin" />
+      <command value="gem push frank_palindrome" />
+      <command value="gem push frank_palindrome.gem" />
+      <command value="gem build frank_palindrome" />
+      <command value="gem build frank_palindrome.gemspec" />
+      <command value="gem push frank_palindrome-1.0.0.gem" />
+      <command value="gem yank frank_palindrome-v 1.0.0" />
+      <command value="gem yank frank_palindrome -v 1.0.0" />
+      <command value="gem push /Users/mitnick/RubymineProjects/Ruby_play_ground/frank_palindrome/frank_palindrome-1.0.0.gem" />
     </option>
   </component>
   <component name="RunDashboard">
@@ -176,22 +217,23 @@
       <workItem from="1552905645905" duration="7000" />
       <workItem from="1553160683521" duration="883000" />
       <workItem from="1553161951860" duration="5000" />
-      <workItem from="1553162000272" duration="1043000" />
+      <workItem from="1553162000272" duration="1906000" />
+      <workItem from="1553164128530" duration="2523000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2044000" />
+    <option name="totallyTimeSpent" value="5430000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="558" y="23" width="629" height="822" extended-state="0" />
+    <frame x="761" y="23" width="629" height="822" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33560476" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3475298" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32913166" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.63884157" visible="true" weight="0.32913166" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -200,7 +242,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.36115843" side_tool="true" visible="true" weight="0.32913166" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -212,10 +254,39 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/frank_palindrome.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.bash_profile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/setup">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/console">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/frank_palindrome/version.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frank_palindrome-1.0.0.gem">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/frank_palindrome.gemspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        <state relative-caret-position="126">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>

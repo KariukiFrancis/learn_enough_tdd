@@ -5,13 +5,13 @@ require "frank_palindrome/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "frank_palindrome"
-  spec.version       = FrankPalindrom::VERSION
+  spec.version       = FrankPalindrome::VERSION
   spec.authors       = ["francis mwaniki"]
   spec.email         = ["Francis7mwaniki@mylife.mku.ac.ke"]
 
   spec.summary       = %q{Palindrome detector}
   spec.description   = %q{learning enough tdd}
-  spec.homepage      = "https://github.com/KariukiFrancis/learn_enough_tdd.git"
+  spec.homepage      = "https://github.com/KariukiFrancis/learn_enough_tdd"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
